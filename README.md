@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeenZuk
-- 👀 I’m interested in How work the world of Machin
+- 👀 I’m interested in How work the world of Computer
 - 🌱 I’m currently learning C,Python,Php,Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0341100873
